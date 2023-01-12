@@ -1,0 +1,1 @@
+airflow-provider-firebolt==0.1.3
